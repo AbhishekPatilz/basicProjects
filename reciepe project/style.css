@@ -53,6 +53,7 @@ display: flex;
     background-image:linear-gradient(45deg,red,white,green);
     justify-content: center;
     align-items: center;
+    justify-content: space-around;
  }
  fp{
     font-weight: bold;
